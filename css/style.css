@@ -202,6 +202,9 @@ img {
       background: transparent;
       border: 2px solid transparent;
     }
+    .loading-container {
+       display: block;
+    }
     .article__tiny:hover:before{
       animation: animate .7s linear forwards;
     }
