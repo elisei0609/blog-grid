@@ -142,7 +142,7 @@ img {
    height: 56px;
    border-radius: 50%;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 736px) {
    html {
       font-size: 16px;
    }
